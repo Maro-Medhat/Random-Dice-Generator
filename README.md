@@ -24,9 +24,10 @@ Random Dice Generator is a web application that simulates rolling a traditional 
 - effectively generating a **`random number between 1 and 6`**,
 - reflecting the typical outcomes of a six-sided dice.
 
-4. User Interaction:
-Users can interact with the application by repeatedly clicking the **`"Roll Dice"`** button to experience different dice rolls,
-enhancing engagement and usability.
+3. User Interaction:
+- Users can interact with the application by repeatedly clicking the **`"Roll Dice"`** button
+- to experience different dice rolls,
+- enhancing engagement and usability.
 
 ## Installation
 
